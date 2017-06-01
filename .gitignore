@@ -1,0 +1,6 @@
+*.py
+*.class 
+*.txt
+out
+src
+*.iml
