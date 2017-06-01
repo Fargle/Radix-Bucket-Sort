@@ -4,3 +4,5 @@
 out
 src
 *.iml
+.idea
+.DS_Store
